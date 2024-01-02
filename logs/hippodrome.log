@@ -1,0 +1,10 @@
+2024-01-02 12:21:58.864 DEBUG Horse: Created a horse name [Houdini] with speed [2.4]
+2024-01-02 12:21:58.881 DEBUG Horse: Created a horse name [Comanche] with speed [2.5]
+2024-01-02 12:21:58.882 DEBUG Horse: Created a horse name [Ranger] with speed [2.6]
+2024-01-02 12:21:58.884 DEBUG Horse: Created a horse name [Elvis] with speed [2.7]
+2024-01-02 12:21:58.885 DEBUG Horse: Created a horse name [Yoda] with speed [2.8]
+2024-01-02 12:21:58.886 DEBUG Horse: Created a horse name [Pegasus] with speed [2.9]
+2024-01-02 12:21:58.886 DEBUG Horse: Created a horse name [Shelby] with speed [3.0]
+2024-01-02 12:21:58.892 DEBUG Hippodrome: Created Hippodrome with 7 horses
+2024-01-02 12:21:58.894 INFO Main: Start of the race. Number of participants: 7
+2024-01-02 12:21:59.776 INFO Main: End of the race. Winner is : Ranger
